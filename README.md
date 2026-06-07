@@ -133,7 +133,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-- Developed during internship at KodNest.
 - Thanks to Spring Boot and Thymeleaf communities.
 - Razorpay for providing secure payment integration.
 - All contributors and mentors involved in the project journey.
